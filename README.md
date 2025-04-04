@@ -89,7 +89,7 @@ To set up and run the project locally:
 
 ## Demo
 
-Create a Dataset Class :
+### Create a Dataset Class :
 
 <img width="899" alt="Screenshot 2025-04-05 at 04 39 44" src="https://github.com/user-attachments/assets/24ff2ea9-8e58-4538-b636-d9394b06625f" />
 
@@ -99,7 +99,7 @@ Create a Dataset Class :
 
 
 
-Part 1 : I prepare a model, and change the output layer
+### Part 1 : I prepare a model, and change the output layer
 
 <img width="980" alt="Screenshot 2025-04-05 at 04 45 58" src="https://github.com/user-attachments/assets/fad917d9-27d9-4c6b-9741-6de80fc3ae0e" />
 
@@ -111,7 +111,7 @@ Part 1 : I prepare a model, and change the output layer
 
 
 
-Part 2: Train the Model
+### Part 2: Train the Model
 
 <img width="915" alt="Screenshot 2025-04-05 at 04 50 41" src="https://github.com/user-attachments/assets/df482c77-914f-4779-8bd1-d030c912ea77" />
 
@@ -122,7 +122,7 @@ Part 2: Train the Model
 <img width="901" alt="Screenshot 2025-04-05 at 04 52 59" src="https://github.com/user-attachments/assets/dc0e69f1-0c71-4a61-bed0-c67baa811dd0" />
 
 
-Part 3 : Find 4 misclassified samples
+### Part 3 : Find 4 misclassified samples
 
 <img width="899" alt="Screenshot 2025-04-05 at 04 54 51" src="https://github.com/user-attachments/assets/362a4a44-b746-4cda-8e24-9e3f61398eef" />
 

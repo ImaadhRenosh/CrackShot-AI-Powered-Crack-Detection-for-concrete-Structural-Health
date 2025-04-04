@@ -90,6 +90,7 @@ To set up and run the project locally:
 ## Demo
 
 Create a Dataset Class :
+
 <img width="899" alt="Screenshot 2025-04-05 at 04 39 44" src="https://github.com/user-attachments/assets/24ff2ea9-8e58-4538-b636-d9394b06625f" />
 
 <img width="895" alt="Screenshot 2025-04-05 at 04 40 20" src="https://github.com/user-attachments/assets/a6e5bbee-e50d-4177-8adc-7accef5fb074" />
@@ -98,7 +99,42 @@ Create a Dataset Class :
 
 
 
+Part 1 : I prepare a model, and change the output layer
 
+<img width="980" alt="Screenshot 2025-04-05 at 04 45 58" src="https://github.com/user-attachments/assets/fad917d9-27d9-4c6b-9741-6de80fc3ae0e" />
+
+<img width="893" alt="Screenshot 2025-04-05 at 04 47 57" src="https://github.com/user-attachments/assets/f8e77ca8-6d20-476c-9598-911b4bfc3fa2" />
+
+<img width="767" alt="Screenshot 2025-04-05 at 04 48 36" src="https://github.com/user-attachments/assets/ba08eb74-8d32-48ba-bf22-85656a4fd468" />
+
+<img width="793" alt="Screenshot 2025-04-05 at 04 49 20" src="https://github.com/user-attachments/assets/c1f7567b-df5b-477d-8bca-fbab08562ca4" />
+
+
+
+Part 2: Train the Model
+
+<img width="915" alt="Screenshot 2025-04-05 at 04 50 41" src="https://github.com/user-attachments/assets/df482c77-914f-4779-8bd1-d030c912ea77" />
+
+<img width="895" alt="Screenshot 2025-04-05 at 04 51 54" src="https://github.com/user-attachments/assets/f1af4970-36c5-4b99-9ea2-e841c451bbca" />
+
+<img width="896" alt="Screenshot 2025-04-05 at 04 52 28" src="https://github.com/user-attachments/assets/ea4e8144-60ab-437a-92c0-fbb6613d3a39" />
+
+<img width="901" alt="Screenshot 2025-04-05 at 04 52 59" src="https://github.com/user-attachments/assets/dc0e69f1-0c71-4a61-bed0-c67baa811dd0" />
+
+
+Part 3 : Find 4 misclassified samples
+
+<img width="899" alt="Screenshot 2025-04-05 at 04 54 51" src="https://github.com/user-attachments/assets/362a4a44-b746-4cda-8e24-9e3f61398eef" />
+
+<img width="895" alt="Screenshot 2025-04-05 at 04 55 42" src="https://github.com/user-attachments/assets/5b36135b-a2cf-4cb9-a201-f9b4960cf912" />
+
+<img width="879" alt="Screenshot 2025-04-05 at 04 56 12" src="https://github.com/user-attachments/assets/d5046692-6eb3-493b-96cc-1628006a9894" />
+
+<img width="908" alt="Screenshot 2025-04-05 at 04 56 47" src="https://github.com/user-attachments/assets/2011bd04-04b9-4e43-874a-6661c583560b" />
+
+<img width="882" alt="Screenshot 2025-04-05 at 04 57 08" src="https://github.com/user-attachments/assets/8caa0686-9e99-4715-84d4-ae61fa9aef57" />
+
+<img width="832" alt="Screenshot 2025-04-05 at 04 57 19" src="https://github.com/user-attachments/assets/5700eef8-6909-4502-a31c-4406fa432236" />
 
 
 

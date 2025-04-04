@@ -44,35 +44,63 @@ To set up and run the project locally:
     ```python
     import os
 
-    # Change to a stable directory
-    os.chdir('/home')  # Adjust based on your environment
+    # Download the data 
+    !wget https://s3-api.us-geo.objectstorage.softlayer.net/cf-courses-data/CognitiveClass/DL0321EN/data/images/Positive_tensors.zip 
 
+    ! wget https://s3-api.us-geo.objectstorage.softlayer.net/cf-courses-data/CognitiveClass/DL0321EN/data/images/Negative_tensors.zip
+
+    !unzip -qo Positive_tensors.zip 
+
+    !unzip -qo Negative_tensors.zip
+
+    note : I will Download the cocncrete images dataset and unzip the files in the data directory, unlike the other projects,
+    all the data will be deleted after the project is closed, the download may may take some time:
+
+    
+    
     # Install required libraries
-    !pip install tensorflow --user
-    !pip install opencv-python --user
-    !pip install numpy --user
-
-    # Verify installations
-    import tensorflow as tf
-    import cv2
-    import numpy as np
-    print("Libraries installed successfully!")
-    print("TensorFlow version:", tf.__version__)
-    print("OpenCV version:", cv2.__version__)
-    print("numpy version:", np.__version__)
+    !pip install torchvision
 
     # Import Required Libraries
-    import tensorflow.keras as keras
-    from tensorflow.keras.models import Sequential
-    from tensorflow.keras.layers import Dense, Conv2D, MaxPooling2D, Flatten
-    import cv2
+    # These are the libraries will be used for this Project.
+    import torchvision.models as models
+    from PIL import Image
+    import pandas
+    from torchvision import transforms
+    import torch.nn as nn
+    import time
+    import torch 
+    import matplotlib.pylab as plt
     import numpy as np
+    from torch.utils.data import Dataset, DataLoader
+    import h5py
+    import os
+    import glob
+    torch.manual_seed(0)
+
+    from matplotlib.pyplot import imshow
+    import matplotlib.pylab as plt
+    from PIL import Image
+    import pandas as pd
+    import os
     ```
 
 3. **Run the Jupyter Notebook**: Launch Jupyter Notebook and open `Crack_Detection.ipynb`.
 
 ## Demo
-*Include relevant images and descriptions related to your project demo.*
+
+Create a Dataset Class :
+<img width="899" alt="Screenshot 2025-04-05 at 04 39 44" src="https://github.com/user-attachments/assets/24ff2ea9-8e58-4538-b636-d9394b06625f" />
+
+<img width="895" alt="Screenshot 2025-04-05 at 04 40 20" src="https://github.com/user-attachments/assets/a6e5bbee-e50d-4177-8adc-7accef5fb074" />
+
+<img width="903" alt="Screenshot 2025-04-05 at 04 40 47" src="https://github.com/user-attachments/assets/50df945c-5903-4988-a71e-8db459397752" />
+
+
+
+
+
+
 
 ## Usage
 After launching the Jupyter Notebook, you can:

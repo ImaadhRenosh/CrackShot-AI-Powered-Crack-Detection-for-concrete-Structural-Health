@@ -1,4 +1,5 @@
-# CrackShot-AI-Powered-Crack-Detection-for-concrete-Structural-Health
+# AI-powered Concrete Crack Detection System
+# AI Capstone Project with Deep-Learning (IBM AI Engineering Specialization)
 
 ## Table of Contents
 - [Overview](#overview)

@@ -1,5 +1,4 @@
-# AI-powered Concrete Crack Detection System
-## AI Capstone Project with Deep-Learning (IBM AI Engineering Specialization)
+# IBM AI engineering Capstone Project : AI-powered Concrete Crack Detection System
 
 ## Table of Contents
 - [Overview](#overview)

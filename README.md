@@ -14,12 +14,11 @@
 - [Acknowledgements](#acknowledgements)
 - [Contact](#contact)
 
-## Overview
-CrackShot is an AI-powered crack detection system designed to ensure the structural health of concrete structures. Crack detection holds vital importance for structural health monitoring and inspection. By leveraging advanced machine learning techniques, CrackShot aims to provide accurate and efficient crack detection solutions.
+# Overview
+The AI-powered Concrete Crack Detection System, developed as part of the AI Capstone Project with Deep-Learning (IBM AI Engineering Specialization), is designed to ensure the structural health of concrete structures. Crack detection holds vital importance for structural health monitoring and inspection. By leveraging advanced machine learning techniques, this project aims to provide accurate and efficient crack detection solutions. It uses a pre-trained ResNet18 model fine-tuned with PyTorch to classify concrete images into positive (cracked) and negative (non-cracked) samples, achieving a validation accuracy of 99.43%.
 
-## Objective
-- How to download and pre-process the Concrete dataset.
-Crack detection has vital importance for structural health monitoring and inspection. We aim to train a network to detect cracks, where images containing cracks are positive, and images without cracks are negative. This involves downloading the data, studying the dataset, and plotting a few images.
+# Project Aim
+The aim of this project is to develop a robust AI-powered system for detecting cracks in concrete structures by downloading and preprocessing the Concrete dataset, exploring the data through visualization, fine-tuning a pre-trained ResNet18 model for binary classification (cracked vs. non-cracked), and evaluating its performance through loss analysis and misclassification identification to ensure effective structural health monitoring.
 
 ## Technologies Used
 - **Programming Language:** Python

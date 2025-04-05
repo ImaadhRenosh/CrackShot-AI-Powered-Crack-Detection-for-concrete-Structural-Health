@@ -1,4 +1,5 @@
-# IBM AI engineering Professional Certified Capstone Project : AI-powered Concrete Crack Detection System
+# IBM AI engineering Professional Certified Capstone Project:
+# AI-powered Concrete Crack Detection System
 
 ## Table of Contents
 - [Overview](#overview)

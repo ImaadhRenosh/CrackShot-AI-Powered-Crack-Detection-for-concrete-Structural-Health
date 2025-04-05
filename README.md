@@ -55,9 +55,7 @@ To set up and run the project locally:
 
     note : I will Download the cocncrete images dataset and unzip the files in the data directory, unlike the other projects,
     all the data will be deleted after the project is closed, the download may may take some time:
-
-    
-    
+     
     # Install required libraries
     !pip install torchvision
 
@@ -85,7 +83,7 @@ To set up and run the project locally:
     import os
     ```
 
-3. **Run the Jupyter Notebook**: Launch Jupyter Notebook and open `Crack_Detection.ipynb`.
+3. **Run the Jupyter Notebook**: Launch Jupyter Notebook and open [`4 1_resnet18_PyTorch.ipynb`](https://github.com/ImaadhRenosh/IBM-certified-AI-powered-Concrete-Crack-Detection-System-Capstone-Project/blob/main/4%201_resnet18_PyTorch.ipynb).
 
 ## Demo
 

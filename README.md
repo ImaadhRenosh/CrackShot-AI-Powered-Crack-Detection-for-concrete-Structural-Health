@@ -26,13 +26,10 @@ The goal of this project is to build a robust, real-world AI solution for early 
 
 To accomplish this, the project includes:
 
-Data acquisition and preprocessing of the public Concrete Crack dataset
-
-Exploratory data analysis and visualization for insights
-
-Transfer learning by fine-tuning a pre-trained ResNet18 model for binary image classification (cracked vs. non-cracked)
-
-Performance evaluation through loss curves, confusion matrices, and misclassification analysis
+- Data acquisition and preprocessing of the public Concrete Crack dataset
+- Exploratory data analysis and visualization for insights
+- Transfer learning by fine-tuning a pre-trained ResNet18 model for binary image classification (cracked vs. non-cracked)
+- Performance evaluation through loss curves, confusion matrices, and misclassification analysis
 
 This capstone demonstrates not only technical skills in deep learning and computer vision but also the ability to create end-to-end, high-impact AI systems suitable for real-world deployment.
 

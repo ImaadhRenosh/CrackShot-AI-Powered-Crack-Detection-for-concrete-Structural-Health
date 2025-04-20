@@ -15,10 +15,26 @@
 - [Contact](#contact)
 
 # Overview
-The AI-powered Concrete Crack Detection System, developed as part of the AI Capstone Project with Deep-Learning (IBM AI Engineering Specialization), is designed to ensure the structural health of concrete structures. Crack detection holds vital importance for structural health monitoring and inspection. By leveraging advanced machine learning techniques, this project aims to provide accurate and efficient crack detection solutions. It uses a pre-trained ResNet18 model fine-tuned with PyTorch to classify concrete images into positive (cracked) and negative (non-cracked) samples, achieving a validation accuracy of 99.43%.
+The AI-Powered Concrete Crack Detection System is the capstone project of the IBM AI Engineering Professional Certificate, developed to showcase advanced machine learning and deep learning expertise in a real-world application with critical societal value.
+
+This system is designed to automate the detection of cracks in concrete infrastructure, addressing a key challenge in structural health monitoring. Leveraging a pre-trained ResNet18 model fine-tuned using PyTorch, the model accurately classifies concrete surface images into cracked and non-cracked categories, achieving an exceptional validation accuracy of 99.43%.
+
+By integrating state-of-the-art computer vision and model optimization techniques, this project exemplifies how AI can be deployed in civil engineering and construction inspection, drastically reducing manual labor, error margins, and inspection time.
 
 # Project Aim
-The aim of this project is to develop a robust AI-powered system for detecting cracks in concrete structures by downloading and preprocessing the Concrete dataset, exploring the data through visualization, fine-tuning a pre-trained ResNet18 model for binary classification (cracked vs. non-cracked), and evaluating its performance through loss analysis and misclassification identification to ensure effective structural health monitoring.
+The goal of this project is to build a robust, real-world AI solution for early detection of structural damage in concrete, which can significantly enhance the safety and maintenance of infrastructure systems.
+
+To accomplish this, the project includes:
+
+Data acquisition and preprocessing of the public Concrete Crack dataset
+
+Exploratory data analysis and visualization for insights
+
+Transfer learning by fine-tuning a pre-trained ResNet18 model for binary image classification (cracked vs. non-cracked)
+
+Performance evaluation through loss curves, confusion matrices, and misclassification analysis
+
+This capstone demonstrates not only technical skills in deep learning and computer vision but also the ability to create end-to-end, high-impact AI systems suitable for real-world deployment.
 
 ## Technologies Used
 - **Programming Language:** Python

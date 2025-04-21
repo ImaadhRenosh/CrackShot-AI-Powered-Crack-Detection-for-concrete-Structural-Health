@@ -35,7 +35,7 @@ This capstone reflects not only my technical skills in deep learning and compute
 
 ## Technologies Used
 - **Programming Language:** Python
-- **Libraries:** TensorFlow, OpenCV, numpy
+- **Libraries:** PyTorch, OpenCV, numpy
 - **Tools:** Jupyter Notebook, Git, VS Code
 
 ## Prerequisites

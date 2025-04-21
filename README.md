@@ -40,7 +40,7 @@ This capstone reflects not only my technical skills in deep learning and compute
 
 ## Prerequisites
 - Python 3.x
-- TensorFlow
+- PyTorch
 - OpenCV
 - numpy
 

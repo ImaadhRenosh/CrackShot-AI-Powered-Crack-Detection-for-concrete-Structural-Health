@@ -1,4 +1,4 @@
-# IBM AI engineering Professional Certified Capstone Project:
+# IBM AI engineering Professional Certified Project:
 # Final Capstone Project of the IBM Deep Learning with Keras, PyTorch, and TensorFlow Professional Specialization
 # AI-powered Concrete Crack Detection System
 
@@ -36,7 +36,7 @@ This capstone reflects not only my technical skills in deep learning and compute
 
 ## Technologies Used
 - **Programming Language:** Python
-- **Libraries:** PyTorch, OpenCV, numpy
+- **Libraries:** PyTorch, OpenCV, numpy, Matplotlib
 - **Tools:** Jupyter Notebook, Git, VS Code
 
 ## Prerequisites
@@ -44,6 +44,7 @@ This capstone reflects not only my technical skills in deep learning and compute
 - PyTorch
 - OpenCV
 - numpy
+- Matplotlib
 
 ## Installation & How to Run
 To set up and run the project locally:
